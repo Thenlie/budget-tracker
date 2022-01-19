@@ -1,10 +1,10 @@
 # Budget Tracker PWA ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
+  I updated an existing budget tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total is updated when they're brought back online.
+
   ## Deployed with Heroku at: 
  
   [https://budget-tracker-thenlie.herokuapp.com/](https://budget-tracker-thenlie.herokuapp.com/)
-
-  I updated an existing budget tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total is updated when they're brought back online.
 
   ***
 
